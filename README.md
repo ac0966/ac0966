@@ -1,6 +1,6 @@
 🎯 About Me
 
-I'm an Analytics Professional with 5+ years of experience specializing in causal inference,impact evaluation, and data-driven decision making. Currently working as a Senior Consultant at Ipsos UK, I help organizations measure program effectiveness and drive strategic improvements through rigorous statistical analysis. With a Master's from MIT in Data, Economics & Development Policy, I bridge the gap between complex analytical methods and actionable insights. I recently opened up to the world of Machine Learning and enjoying every bit of it. 
+I'm an Analytics Professional with 5+ years of experience specializing in causal inference, impact evaluation, and data-driven decision making. Currently working as a Senior Consultant at Ipsos UK, I help organizations measure program effectiveness and drive strategic improvements through rigorous statistical analysis. With a Master's from MIT in Data, Economics & Development Policy, I bridge the gap between complex analytical methods and actionable insights. I’ve recently stepped into the world of Machine Learning, and I’m absolutely loving the journey so far!
 
 🌍 Location: London, UK
 
